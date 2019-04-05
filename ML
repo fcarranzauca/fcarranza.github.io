@@ -1,5 +1,6 @@
 Bienvenidos a está sesión de ML intuitivo
-
+```python
 def foo():
     if not bar:
         return True
+```
