@@ -1,1 +1,3 @@
 Bienvenidos
+
+Las máquinas que queremos programar son máquinas que funcionan de forma probabilística, a diferencia de otro tipo de máquinas que funcionan basadas en  "if / else / loop / recursive" de forma determinista esta vez trabajaremos con máquinas que hacen tareas con cierta probabilidad de hacerlo y bien y también de no hacerlo y dar el resultado que esperamos de ellas; hay varias situaciones que hay que tomar en cuenta  para que desempeñen sus funciones y nos den los mejores resultados, una de las más importantes es la información  que les vamos a proporcionar para que realicen sus estudios, entender las respuesta que estas nos dan es también de vital importancia.
