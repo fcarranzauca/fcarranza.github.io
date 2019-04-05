@@ -1,1 +1,5 @@
 Bienvenidos a está sesión de ML intuitivo
+
+def foo():
+    if not bar:
+        return True
